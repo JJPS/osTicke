@@ -28,7 +28,7 @@ https://play.google.com/store/apps/details?id=br.com.osticket.admin&hl=es_PE
 
 Tomamos como base Debian-12.2.0
 
-![alt text](image.png)
+![alt text](./Imagenes/image.png)
 
 ### Usuario Sistema Operativo
 
@@ -77,7 +77,7 @@ Por políticas de empresa hay que descargar osTicket desde la web del fabricante
 
 https://osticket.com/download/
 
-![alt text](image-1.png)
+![alt text](./Imagenes/image-1.png)
 
 Una vez descargado en la carpeta `/home/cifpsoporte` iniciamos el proceso de instalación.
 
@@ -114,16 +114,16 @@ Desde un navegador configuramos el resto de la instalación
 
 http://192.168.1.143/osTicket/upload/setup/
 
-![alt text](image-2.png)
+![alt text](./Imagenes/image-2.png)
 
-![alt text](image-3.png)
+![alt text](./Imagenes/image-3.png)
 
-![alt text](image-4.png)
+![alt text](./Imagenes/image-4.png)
 
 > Admin: root  
 > Passw: 2324Ceuta
 
-![alt text](image-5.png)
+![alt text](./Imagenes/image-5.png)
 
 Los datos de conexión de la BBDD deben coincidir con los que hemos puesto durante la creacion de ususarios y BBDD en el apartado de MariaDB
 
@@ -131,7 +131,7 @@ Los datos de conexión de la BBDD deben coincidir con los que hemos puesto duran
 > Nombre usuario: osTicket  
 > Password: osTicket  
 
-![alt text](image-7.png)
+![alt text](./Imagenes/image-7.png)
 
 En la parte inferior tenemos las URL de la generación y gestión de tickets. 
 
